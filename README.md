@@ -58,3 +58,58 @@ prediction.
 • Big Data: Hadoop, Spark 
 
 • Geospatial Analysis: GIS, Google Maps API
+
+# Schema
+
+``` sql
+create table Travel(
+   Tourist_ID	INT,
+   Country_Visited varchar(30),
+   City_Visited	varchar(20),
+   Mode_of_Travel	varchar(20),
+   Travel_Duration_Days	INT,
+   Number_of_Companions	INT,
+   Total_Travel_Cost	Float,
+   Accommodation_Type	varchar(20),
+   Main_Purpose	varchar(20),
+   Season_of_Visit varchar(20)
+)
+```
+
+## 11.Fetch the first 5 records from the Travel Table 
+``` sql
+SELECT
+      top 5*
+FROM Travel
+```
+
+## 2. Retrieve all the distinct travel modes used by tourists. 
+``` Sql
+SELECT DISTINCT
+     Mode_of_travel
+FROM Travel
+````
+
+## 3. Retrieve all the distinct type of Accommodation used by tourists. 
+``` Sql
+SELECT
+   DISTINCT Accommodation_Type
+FROM Travel
+```
+
+## 4. Display all records where the mode of travel is 'Flight'.
+``` sql
+SELECT *
+FROM Travel
+Where Mode_of_Travel = 'FLIGHT'
+```
+
+## 5. Count the number of tourists travelled to each country using different mode of travel.
+``` sql
+SELECT
+   Country_Visited,
+   Mode_of_Travel,
+   COUNT(tourist_id) as No_of_tourists
+FROM Travel
+GROUP BY Country_Visited,Mode_of_Travel
+```
