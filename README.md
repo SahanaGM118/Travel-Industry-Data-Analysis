@@ -8,9 +8,11 @@ customer experiences, and boost revenue.
 making. 
 
 ## 2. Key Data Sources 
-• Booking & Reservation Data (Flights, Hotels, Tours) 
+• Booking & Reservation Data (Flights, Hotels, Tours)
 • Customer Data (Demographics, Preferences, Feedback) 
+
 • Website & Mobile App Analytics (User Behavior, Search Trends) 
+
 • Social Media & Review Platforms (Sentiment Analysis, Ratings) 
 • Market & Competitor Data (Pricing, Offers, Demand Trends)
 
