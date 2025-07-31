@@ -4,16 +4,19 @@ Data analytics is transforming the travel industry by enabling companies to enha
 ## 1. Introduction to Travel Industry Data Analytics 
 • Data analytics in the travel industry helps businesses optimize operations, improve 
 customer experiences, and boost revenue. 
+
 • Uses historical data, real-time insights, and predictive analytics to enhance decision
 making. 
 
 ## 2. Key Data Sources 
 • Booking & Reservation Data (Flights, Hotels, Tours)
+
 • Customer Data (Demographics, Preferences, Feedback) 
 
 • Website & Mobile App Analytics (User Behavior, Search Trends) 
 
 • Social Media & Review Platforms (Sentiment Analysis, Ratings) 
+
 • Market & Competitor Data (Pricing, Offers, Demand Trends)
 
 ## 3. Types of Analytics in Travel Industry 
@@ -46,8 +49,12 @@ prediction.
 -- Fraud Detection – Identifying anomalies in bookings and payments. 
 
 ## 5. Tools & Technologies Used 
--- • Data Processing: Python, R, SQL 
+• Data Processing: Python, R, SQL 
+
 • BI & Visualization: Tableau, Power BI 
+
 • Machine Learning: Scikit-learn, TensorFlow 
+
 • Big Data: Hadoop, Spark 
+
 • Geospatial Analysis: GIS, Google Maps API
