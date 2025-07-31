@@ -15,27 +15,36 @@ making.
 • Market & Competitor Data (Pricing, Offers, Demand Trends)
 
 ## 3. Types of Analytics in Travel Industry 
-Descriptive Analytics – Summarizes historical trends (e.g., seasonal demand, customer 
+
+-- Descriptive Analytics – Summarizes historical trends (e.g., seasonal demand, customer 
 preferences). 
-Predictive Analytics – Forecasts future trends using ML (e.g., demand prediction, dynamic 
+
+-- Predictive Analytics – Forecasts future trends using ML (e.g., demand prediction, dynamic 
 pricing). 
-Prescriptive Analytics – Suggests optimal actions (e.g., personalized recommendations, 
+
+-- Prescriptive Analytics – Suggests optimal actions (e.g., personalized recommendations, 
 pricing strategies). 
-Real-time Analytics – Monitors ongoing travel trends (e.g., flight delays, surge pricing). 
-4. Applications of Data Analytics in Travel 
-Customer Personalization – Recommending destinations, hotels, and packages based on 
+
+-- Real-time Analytics – Monitors ongoing travel trends (e.g., flight delays, surge pricing). 
+
+## 4. Applications of Data Analytics in Travel
+
+-- Customer Personalization – Recommending destinations, hotels, and packages based on 
 past behavior. 
-Revenue Management & Dynamic Pricing – Adjusting prices based on demand, 
+
+-- Revenue Management & Dynamic Pricing – Adjusting prices based on demand, 
 competitor pricing, and seasonality. 
-✈ Operational Efficiency – Optimizing airline routes, hotel occupancy, and transportation 
+
+--✈ Operational Efficiency – Optimizing airline routes, hotel occupancy, and transportation 
 schedules. 
-�
-� Marketing & Customer Engagement – Targeted promotions, loyalty programs, and churn 
+
+-- � Marketing & Customer Engagement – Targeted promotions, loyalty programs, and churn 
 prediction. 
-Fraud Detection – Identifying anomalies in bookings and payments. 
+
+-- Fraud Detection – Identifying anomalies in bookings and payments. 
 
 ## 5. Tools & Technologies Used 
-• Data Processing: Python, R, SQL 
+-- • Data Processing: Python, R, SQL 
 • BI & Visualization: Tableau, Power BI 
 • Machine Learning: Scikit-learn, TensorFlow 
 • Big Data: Hadoop, Spark 
