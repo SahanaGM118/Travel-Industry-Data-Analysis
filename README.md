@@ -1,5 +1,18 @@
 # Travel-Industry-Data-Analysis
-Data analytics is transforming the travel industry by enabling companies to enhance customer experiences, optimize operations, and make data-driven decisions
+Data analytics is transforming the 
+
+🚀 Just wrapped up a  project in the travel industry by enabling companies to enhance customer experiences, optimize operations, and make data-driven decisions
+
+The task was to provide insights to executive management by tackling 20 ad hoc requests using SQL. As an applicant for a junior data analyst position, I was tested not only on my technical SQL skills but also on my ability to communicate complex insights to top-level management.
+
+Here’s what I did:
+🔖Ran SQL queries to address the key business questions.
+
+🔖Created clear, actionable insights to help executives make quick, data-informed decisions.
+
+🔖Designed a creative presentation tailored for a C-suite audience, showcasing data in an easily digestible format.
+
+SQL skills learned:
 
 ## 1. Introduction to Travel Industry Data Analytics 
 • Data analytics in the travel industry helps businesses optimize operations, improve 
@@ -48,16 +61,6 @@ prediction.
 
 -- Fraud Detection – Identifying anomalies in bookings and payments. 
 
-## 5. Tools & Technologies Used 
-• Data Processing: Python, R, SQL 
-
-• BI & Visualization: Tableau, Power BI 
-
-• Machine Learning: Scikit-learn, TensorFlow 
-
-• Big Data: Hadoop, Spark 
-
-• Geospatial Analysis: GIS, Google Maps API
 
 # Schema
 
@@ -296,7 +299,7 @@ Where RN =1
 ```
 
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions or feedback feel free to get in touch!
 
 LinkedIn:
 
