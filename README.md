@@ -14,29 +14,29 @@ CTEs, Aggregate & Window Functions – For complex analytical queries
 
 # 📊 Key Insights
 
-## 1.Analyzed global travel data to identify the top 5 most visited countries and cities, revealing a 22% surge in trips during summer.
+1.Analyzed global travel data to identify the top 5 most visited countries and cities, revealing a 22% surge in trips during summer.
 
-## 2.Evaluated travel costs and duration, uncovering a 15% higher average spend among flight travelers compared to other modes.
+2.Evaluated travel costs and duration, uncovering a 15% higher average spend among flight travelers compared to other modes.
 
-## 3.Segmented travelers into solo vs. group categories, highlighting solo travelers as the dominant segment in major cities.
+3.Segmented travelers into solo vs. group categories, highlighting solo travelers as the dominant segment in major cities.
 
 # 🧩 Skills Demonstrated
 
 ## Data Cleaning · Joins · CTEs · Aggregate Functions · Window Functions · Exploratory Data Analysis.
 
-### 1.Analyzed and optimized a comprehensive Travel dataset using SQL Server, uncovering insights into tourist behavior, travel modes, and accommodation trends across countries.
+1.Analyzed and optimized a comprehensive Travel dataset using SQL Server, uncovering insights into tourist behavior, travel modes, and accommodation trends across countries.
 
-### 2.Identified top 5 most visited countries and cities, leveraging GROUP BY, CTE, and window functions (ROW_NUMBER) to reveal key tourism hotspots.
+2.Identified top 5 most visited countries and cities, leveraging GROUP BY, CTE, and window functions (ROW_NUMBER) to reveal key tourism hotspots.
 
-### 3.Measured travel costs and duration patterns, computing average, minimum, and maximum values per accommodation and mode of travel to understand spending trends.
+3.Measured travel costs and duration patterns, computing average, minimum, and maximum values per accommodation and mode of travel to understand spending trends.
 
-### 4.Discovered peak travel seasons and rarely used travel modes via aggregation and conditional filtering, aiding data-driven decision-making for tourism management.
+4.Discovered peak travel seasons and rarely used travel modes via aggregation and conditional filtering, aiding data-driven decision-making for tourism management.
 
-### 5.Used PIVOT tables and aggregate functions to compare seasonal travel durations and costs, transforming raw data into structured analytical views.
+5.Used PIVOT tables and aggregate functions to compare seasonal travel durations and costs, transforming raw data into structured analytical views.
 
-### 6.Derived traveler segmentation insights, differentiating solo vs group travelers and evaluating the percentage of family visits per country.
+6.Derived traveler segmentation insights, differentiating solo vs group travelers and evaluating the percentage of family visits per country.
 
-### 7.Delivered actionable insights through SQL-driven storytelling—revealing that flights and hotels dominated tourist preferences while solo trips were most frequent in urban cities.
+7.Delivered actionable insights through SQL-driven storytelling—revealing that flights and hotels dominated tourist preferences while solo trips were most frequent in urban cities.
 
 # 📂 Files Included
 
