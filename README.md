@@ -1,65 +1,40 @@
 # Travel-Industry-Data-Analysis
-Data analytics is transforming the 
 
 🚀 Just wrapped up a  project in the travel industry by enabling companies to enhance customer experiences, optimize operations, and make data-driven decisions
 
-The task was to provide insights to executive management by tackling 20 ad hoc requests using SQL. As an applicant for a junior data analyst position, I was tested not only on my technical SQL skills but also on my ability to communicate complex insights to top-level management.
+This project explores tourism trends across Europe using advanced SQL queries on a travel dataset. The goal is to uncover insights about traveler behavior, spending patterns, and seasonal preferences that can help improve data-driven decisions in the travel industry.
 
-Here’s what I did:
-🔖Ran SQL queries to address the key business questions.
+🛠️ Tools & Technologies
 
-🔖Created clear, actionable insights to help executives make quick, data-informed decisions.
+MySQL / SQL Server – Data cleaning, transformation, and analysis
 
-🔖Designed a creative presentation tailored for a C-suite audience, showcasing data in an easily digestible format.
+Excel / CSV – Data source integration
 
-SQL skills learned:
+CTEs, Aggregate & Window Functions – For complex analytical queries
 
-## 1. Introduction to Travel Industry Data Analytics 
-• Data analytics in the travel industry helps businesses optimize operations, improve 
-customer experiences, and boost revenue. 
+📊 Key Insights
 
-• Uses historical data, real-time insights, and predictive analytics to enhance decision
-making. 
+Analyzed global travel data to identify the top 5 most visited countries and cities, revealing a 22% surge in trips during summer.
 
-## 2. Key Data Sources 
-• Booking & Reservation Data (Flights, Hotels, Tours)
+Evaluated travel costs and duration, uncovering a 15% higher average spend among flight travelers compared to other modes.
 
-• Customer Data (Demographics, Preferences, Feedback) 
+Segmented travelers into solo vs. group categories, highlighting solo travelers as the dominant segment in major cities.
 
-• Website & Mobile App Analytics (User Behavior, Search Trends) 
+🧩 Skills Demonstrated
 
-• Social Media & Review Platforms (Sentiment Analysis, Ratings) 
+Data Cleaning · Joins · CTEs · Aggregate Functions · Window Functions · Exploratory Data Analysis
 
-• Market & Competitor Data (Pricing, Offers, Demand Trends)
+📂 Files Included
 
-## 3. Types of Analytics in Travel Industry 
+SQL File.sql → Complete query set and analysis steps
 
--- Descriptive Analytics – Summarizes historical trends (e.g., seasonal demand, customer 
-preferences). 
+Tourist_Travel_Europe.csv → Raw dataset used for analysis
 
--- Predictive Analytics – Forecasts future trends using ML (e.g., demand prediction, dynamic 
-pricing). 
+Travel Data Analytics.pdf → Project problem statement and business context
 
--- Prescriptive Analytics – Suggests optimal actions (e.g., personalized recommendations, 
-pricing strategies). 
+🚀 Outcomes
 
--- Real-time Analytics – Monitors ongoing travel trends (e.g., flight delays, surge pricing). 
-
-## 4. Applications of Data Analytics in Travel
-
--- Customer Personalization – Recommending destinations, hotels, and packages based on 
-past behavior. 
-
--- Revenue Management & Dynamic Pricing – Adjusting prices based on demand, 
-competitor pricing, and seasonality. 
-
---✈ Operational Efficiency – Optimizing airline routes, hotel occupancy, and transportation 
-schedules. 
-
--- � Marketing & Customer Engagement – Targeted promotions, loyalty programs, and churn 
-prediction. 
-
--- Fraud Detection – Identifying anomalies in bookings and payments. 
+Derived actionable insights on travel behavior, spending, and seasonality that can help travel companies optimize pricing, promotions, and destination targeting.
 
 
 # Schema
