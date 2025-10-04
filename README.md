@@ -4,7 +4,7 @@
 
 This project explores tourism trends across Europe using advanced SQL queries on a travel dataset. The goal is to uncover insights about traveler behavior, spending patterns, and seasonal preferences that can help improve data-driven decisions in the travel industry.
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 MySQL / SQL Server – Data cleaning, transformation, and analysis
 
@@ -12,19 +12,33 @@ Excel / CSV – Data source integration
 
 CTEs, Aggregate & Window Functions – For complex analytical queries
 
-📊 Key Insights
+# 📊 Key Insights
 
-Analyzed global travel data to identify the top 5 most visited countries and cities, revealing a 22% surge in trips during summer.
+## 1.Analyzed global travel data to identify the top 5 most visited countries and cities, revealing a 22% surge in trips during summer.
 
-Evaluated travel costs and duration, uncovering a 15% higher average spend among flight travelers compared to other modes.
+## 2.Evaluated travel costs and duration, uncovering a 15% higher average spend among flight travelers compared to other modes.
 
-Segmented travelers into solo vs. group categories, highlighting solo travelers as the dominant segment in major cities.
+## 3.Segmented travelers into solo vs. group categories, highlighting solo travelers as the dominant segment in major cities.
 
-🧩 Skills Demonstrated
+# 🧩 Skills Demonstrated
 
-Data Cleaning · Joins · CTEs · Aggregate Functions · Window Functions · Exploratory Data Analysis
+## Data Cleaning · Joins · CTEs · Aggregate Functions · Window Functions · Exploratory Data Analysis.
 
-📂 Files Included
+### 1.Analyzed and optimized a comprehensive Travel dataset using SQL Server, uncovering insights into tourist behavior, travel modes, and accommodation trends across countries.
+
+### 2.Identified top 5 most visited countries and cities, leveraging GROUP BY, CTE, and window functions (ROW_NUMBER) to reveal key tourism hotspots.
+
+### 3.Measured travel costs and duration patterns, computing average, minimum, and maximum values per accommodation and mode of travel to understand spending trends.
+
+### 4.Discovered peak travel seasons and rarely used travel modes via aggregation and conditional filtering, aiding data-driven decision-making for tourism management.
+
+### 5.Used PIVOT tables and aggregate functions to compare seasonal travel durations and costs, transforming raw data into structured analytical views.
+
+### 6.Derived traveler segmentation insights, differentiating solo vs group travelers and evaluating the percentage of family visits per country.
+
+### 7.Delivered actionable insights through SQL-driven storytelling—revealing that flights and hotels dominated tourist preferences while solo trips were most frequent in urban cities.
+
+# 📂 Files Included
 
 SQL File.sql → Complete query set and analysis steps
 
@@ -32,7 +46,7 @@ Tourist_Travel_Europe.csv → Raw dataset used for analysis
 
 Travel Data Analytics.pdf → Project problem statement and business context
 
-🚀 Outcomes
+# 🚀 Outcomes
 
 Derived actionable insights on travel behavior, spending, and seasonality that can help travel companies optimize pricing, promotions, and destination targeting.
 
