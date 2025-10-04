@@ -301,5 +301,5 @@ Where RN =1
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions or feedback feel free to get in touch!
 
-LinkedIn:[Connect with me professionally]((https://www.linkedin.com/in/sahana-m-gowda-9b6a19196/))
+LinkedIn:[Connect with me professionally](https://www.linkedin.com/in/sahana-m-gowda-9b6a19196/) [Connect with me professionally](https://www.linkedin.com/in/sahana-m-gowda-9b6a19196)
 
